@@ -1,0 +1,12 @@
+couponCode : 
+"icy-paper-7122"
+fromDate   :
+"12-9-2019"
+percentoff :
+"0.67"
+referredBy : 
+"soumya"
+toDate     :
+"13-10-2019"
+worksFor   :
+"dosa"
