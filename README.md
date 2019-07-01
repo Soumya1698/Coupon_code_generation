@@ -16,3 +16,4 @@ https://raw.githubusercontent.com/nguymin4/react-videocall/master/server/lib/hai
 1. [To understand the difference between Cloud firestore and Real-time-database.](https://medium.com/@beingrahul/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0)
 2. [How to import data to cloud firestore?](https://hackernoon.com/filling-cloud-firestore-with-data-3f67d26bd66e)
 3. [How to retrieve data from firestore by quering?](https://firebase.google.com/docs/firestore/query-data/get-data)
+4. [Cloud functions for firestore](https://www.youtube.com/watch?v=DYfP-UIKxH0&list=PLl-K7zZEsYLkPZHe41m4jfAxUi0JjLgSM)
